@@ -13,7 +13,7 @@
 
 
 ## Sample output on the console from Controller.java
-
+```
 Fetch Statistics
 ================
 # fetches attempted: 19992
@@ -58,3 +58,4 @@ image/jpeg: 1036
 image/png: 165
 application/pdf: 4
 ================
+```
